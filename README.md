@@ -1,4 +1,2 @@
 # StellarCode.github.io
-theme: jekyll-theme-minimal
-title: StellarCode homepage
-description: Bookmark this to keep an eye on my project updates!
+Этот сайт был создан для скачивание компонентов для nedohackers lite
